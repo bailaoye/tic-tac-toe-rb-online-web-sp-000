@@ -84,3 +84,8 @@ end
 
 def full?(board)
   if (board.select{|position| position == "X"|| position == "O"}).length < 9
+    false
+  else
+    true
+  end
+end
