@@ -1,0 +1,44 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/home/eager-bundle-3135/tic-tac-toe-rb-online-web-sp-000/lib/tic_tac_toe.rb": [
+        null,
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        1,
+        5,
+        5,
+        5,
+        5,
+        5,
+        null,
+        null,
+        1,
+        3,
+        null,
+        null,
+        1,
+        3,
+        null,
+        null,
+        1,
+        3,
+        null,
+        null,
+        null,
+        1,
+        6,
+        null
+      ]
+    },
+    "timestamp": 1608027661
+  }
+}
