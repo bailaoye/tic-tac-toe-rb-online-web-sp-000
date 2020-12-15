@@ -81,3 +81,6 @@ def won?(board)
   end
   false
 end
+
+def full?(board)
+  if (board.select{|position| position == "X"|| position == "O"})
