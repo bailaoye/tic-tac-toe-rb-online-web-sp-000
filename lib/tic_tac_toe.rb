@@ -111,4 +111,4 @@ end
 def winner(board)
   winner = won?(board)
   if winner != false
-    if board[winner[0]]
+    if board[winner[0]] == "O"
