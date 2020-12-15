@@ -83,4 +83,4 @@ def won?(board)
 end
 
 def full?(board)
-  if (board.select{|position| position == "X"|| position == "O"})
+  if (board.select{|position| position == "X"|| position == "O"}).length < 9
