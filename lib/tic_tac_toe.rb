@@ -62,3 +62,6 @@ def turn(board)
     turn(board)
   end
 end
+
+def won?(board)
+  WIN_COMBINATIONS.each do |win_combination|
