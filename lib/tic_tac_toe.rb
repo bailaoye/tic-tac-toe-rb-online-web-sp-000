@@ -107,3 +107,7 @@ def over?(board)
     false
   end
 end
+
+def winner(board)
+  winner = won?(board)
+  
