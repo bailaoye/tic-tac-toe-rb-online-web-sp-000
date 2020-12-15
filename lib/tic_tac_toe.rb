@@ -50,3 +50,6 @@ def current_player(board)
     "O"
   end
 end
+
+def turn(board)
+  puts "Please enter 1-9: "
